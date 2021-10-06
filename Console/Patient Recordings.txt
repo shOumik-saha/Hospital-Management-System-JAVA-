@@ -1,0 +1,7 @@
+*************************Name :1234
+id :shawn
+Diseases :Diarhoea
+Gender:male
+Admit Status: Icu
+Age: 12
+*************************

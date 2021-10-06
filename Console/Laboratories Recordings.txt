@@ -1,0 +1,6 @@
+*************************Laboratory Facility Name:ICU
+Cost:400000
+*************************
+*************************Laboratory Facility Name:dsa
+Cost:asd
+*************************
